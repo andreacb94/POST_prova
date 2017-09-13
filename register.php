@@ -29,4 +29,6 @@
         <?php endif ?>
 
     </body>
+
+    <a href="http://www.html.it/pag/62463/le-richieste-http-get-e-post/">Powered by html.it</a>
 </html>
